@@ -13,8 +13,8 @@
             <ul>
                 <li>Каталог</li>
                 <li>Новинки 2023</li>
-                <li>Доставка</li>
-                <li>Оплата</li>
+                <li @click="$router.push('/send')">Доставка</li>
+                <li @click="$router.push('/pay')">Оплата</li>
                 <li>Все об уходе</li>
                 <li>Контакты</li>
             </ul>
