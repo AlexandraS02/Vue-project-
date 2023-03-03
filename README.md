@@ -67,3 +67,11 @@ Flower shop page
 <img src="https://github.com/AlexandraS02/Vue-project-/blob/main/images%20for%20README/sort-from-best.png" width="400">  
 </li>
 <br>
+
+<li>
+<h1>Переход на другие страницы:</h1>
+<p>Разделы меню "Доставка" и "Оплата" кликабельны и ведут на страницы с отдельными адресами (реализовано при помощи router), нажатие на кнопку "Назад" возвращает на главную страницу сайта.</p>
+<img src="https://github.com/AlexandraS02/Vue-project-/blob/main/images%20for%20README/send.png" width="790"> 
+<img src="https://github.com/AlexandraS02/Vue-project-/blob/main/images%20for%20README/pay.png" width="790">  
+</li>
+<br>
